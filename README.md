@@ -29,9 +29,10 @@ Architecture notes: (link to architecture doc once created)
 
 ---
 
-Currently:
+## Currently:
 - Director, Nubank (Global Credit Card Platform)
-Previously
+
+## Previously
 - Director, Amazon (Mobile Platform)
 - Vice President, Goldman Sachs – Equity Capital Markets Technology
 
